@@ -1,4 +1,4 @@
-# Interview Scheduler
+# Interview Scheduler - Assignment
 
 Scheduler is a React based project that uses a RESTful API to manage interview scheduling for clients. The interactive UI displays messages accordingly and will notify users if there is some kind of error making a request to the server or a user-generated error.
 
