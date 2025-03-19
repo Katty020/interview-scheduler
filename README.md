@@ -26,6 +26,12 @@ If the server returns an error while performing an operation, a user will see a 
 
 !["screenshot of error"](https://github.com/faridamoussaeff/Scheduler/blob/master/docs/3error.png)
 
+## CRUD Operations
+- Create (POST) - Book an Interview
+- Read (GET) - Fetch All Scheduled Interviews
+- Update (PUT) - Modify an Interview
+- Delete (DELETE) - Cancel an Interview
+
 ## Setup
 
 Install dependencies with `npm install`.
@@ -53,6 +59,7 @@ npm run storybook
 - React-scripts
 - Axios
 - Sass
+- session-based authentication.
 - Prop-types
 - React Test Renderer
 - Babel
